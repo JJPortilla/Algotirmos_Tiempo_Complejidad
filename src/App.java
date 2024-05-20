@@ -15,8 +15,8 @@ public class App {
 
         int op;
         do {
-            System.out.println("\nTeoria de la complejidad computacional");
-            System.out.println("1. Nueva generacion aleatoria");
+            System.out.println("\n  Avance 1 proyecto de la Teoria de la complejidad computacional ");
+            System.out.println("1. Nueva generacion de arrays aleatoria");
             System.out.println("2. Ordenar por los 3 metodos");
             System.out.println("0. Salir");
             op = sc.nextInt();
